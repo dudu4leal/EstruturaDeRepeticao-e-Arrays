@@ -23,5 +23,6 @@ public class OrdemInversa {
             System.out.println("vetorInvertido[" + i + "] = " + vetorInvertido[i]);
         }
 
+        scanner.close();
     }
 }
